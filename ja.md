@@ -1,2 +1,2 @@
 ## プライバシーポリシー
-https://churin1116.github.io/230306_LINE_ChatGPT_PrivacyPolicy/docs/ja
+https://churin1116.github.io/230416_character_PrivacyPolicy/docs/ja
